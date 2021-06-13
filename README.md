@@ -1,0 +1,1 @@
+# Wifi_Manager_Reset_FunctionWithsendingData_GoogleSheet
